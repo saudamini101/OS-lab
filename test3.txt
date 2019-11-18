@@ -1,0 +1,4 @@
+ls
+ls -al
+ping www.google.com
+quit

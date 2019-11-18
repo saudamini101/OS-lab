@@ -1,0 +1,8 @@
+ls -al
+whoami
+ls
+whoami
+ls -al
+ls
+whoami
+ls -al
